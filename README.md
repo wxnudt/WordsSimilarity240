@@ -11,7 +11,7 @@ Words-240测试集(类似于英文的WordSimilarity-353测试集)包含240对中
 此测试集是我们为了测试中文词汇之间的语义相关度算法而构造的，详情请参见我们的论文《基于中文维基百科链接结构与分类体系的语义相关度计算》（作者：汪祥，贾焰，周斌，丁兆云，梁政）。如果您使用了此数据集，请引用我们下面的论文：
 
 汪祥, 贾焰, 周斌, 丁兆云, 梁政. 基于中文维基百科链接结构与分类体系的语义相关度计算[J]. 小型微型计算机系统. 2011, 32(11):2237-2242.
-Wang Xiang, Jia Yan, Zhou Bin, Ding Zhao-Yun, Liang Zheng. Computing Semantic Relatedness using Chinese Wikipedia Links and Taxonomy[J]. 2011, 32(11):2237-2242.
+Wang Xiang, Jia Yan, Zhou Bin, Ding Zhao-Yun, Liang Zheng. Computing Semantic Relatedness using Chinese Wikipedia Links and Taxonomy[J]. Journal of Chinese Computer Systems, 2011, 32(11):2237-2242.
 
 
 
